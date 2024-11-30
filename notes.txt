@@ -1,0 +1,9 @@
+Course: Laravel Eloquent Relationships
+Link: [https://youtube.com/playlist?list=PLW-lITXBwAP-Z5PkytUaX-lvJ9vXicJJY&si=nhGro_cOJvTawN4O]
+---------------------------
+
+1- One to One:
+    - a user has one character
+    - a character belongs to user
+
+    - `php artisan make:model Character -m`
